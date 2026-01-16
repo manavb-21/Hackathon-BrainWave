@@ -1,21 +1,11 @@
-# Hackathon-BrainWave
-**SkillGap Finder**
+# SkillGap
 
-SkillGap Finder is an AI-powered platform that helps students and early professionals understand *why* they are getting rejected and *what exactly* they need to improve for a specific role.
+**SkillGap** is an AI-powered career accelerator that bridges the divide between a user's current capabilities and market demands using voice-first interactions and localized support (Hindi/Hinglish).
 
-Instead of giving generic resume scores, the system allows users to upload their **resume** and a **target job description**. Using AI-driven semantic analysis, it compares both to:
+## Documentation
 
-* Extract relevant skills
-* Identify missing and mismatched skills
-* Understand real role expectations
+- [Product Requirements Document (Voice-to-Resume)](./docs/PRD_Voice_To_Resume.md)
 
-Based on this, SkillGap Finder generates a **role-specific, prioritized learning roadmap** that tells users:
+## Development
 
-* What to learn
-* In what order
-* Why it matters
-
-The experience is designed to be **gamified**, turning career growth into an interactive journey with milestones, progress tracking, and clear goals. The platform works across both **technical and non-technical roles**, making it useful for internships, entry-level jobs, and career transitions.
-
-Our focus is **actionable guidance, not prediction**.
-SkillGap Finder doesn’t tell users whether they’ll get a job — it shows them exactly how to become *job-ready*.
+- [Backend & Prototypes](./backend/README.md)
